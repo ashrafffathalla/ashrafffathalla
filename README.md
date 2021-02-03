@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**ashrafffathalla/ashrafffathalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="50">
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+Ashraf Fathalla || Backend Developer <br>
+
+
+
+
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
+<i>Follow me:</i><br>
+
+<a href="http://linkedin.com/in/ashraf-fathalla-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fashraf_fathallaa%3Ffbclid%3DIwAR0uGI9kUDKL8xPkbY78ruoHEapkY-7jc4k1X1iUw6lZLtLC3VDuKCEtW4A&h=AT0CPJmrbYvo3rxqptlbdYyAICMgKRZW80jiBvULSKCdqBudnZB8tx5q5DEHWMFvMhsPo4O8EpKpLNyVpDMKZb7YdrgjM3SKvOfhZ5Ld_6SsuAaH1K1DiM3V_oo1iFDRvwUI" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/ashraf.fathalla.50" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
+
+</div>
