@@ -6,7 +6,7 @@
 
 </div>
 
-Ashraf Fathalla || Backend Developer <br>
+Ashraf Fathalla || Flutter Developer <br>
 
 
 
