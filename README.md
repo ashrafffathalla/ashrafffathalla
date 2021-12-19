@@ -1,8 +1,8 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://www.linkedin.com/in/ashraf-fathalla-dev/" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
 <div align="center" width="50">
 
-<img src="https://instabug.com/blog/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png" width="300"/>
+<img src="https://instabug.com/blog/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png" width="500"/>
 
 </div>
 
