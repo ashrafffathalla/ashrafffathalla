@@ -3,7 +3,7 @@
 <div align="center" width="50">
 
 
-<img src="https://instabug.com/blog/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png" width="500" height ="500"/>
+<img src="https://instabug.com/blog/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png" width="700" height ="400"/>
   
 </div>
 
