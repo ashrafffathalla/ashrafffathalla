@@ -35,8 +35,10 @@
 <h2> Samples from my projects </h2>
 
 ### XO Game
-Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
-Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
+Now you can play Tic Tac Toe on your Android device for free. Our new modern version appears in a cool glow design
+The Tic Tac Toe game is a game for two players, who take turns marking the spaces in a 3×3 grid. The player who succeeded in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
+The Tic Tac Toe is a great way to pass your free time whether you're standing in a line or spending time with friends.
+Stop wasting paper and save trees. Because of the simplicity of Tic Tac Toe, it is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence.
 <p><a href="https://play.google.com/store/apps/details?id=com.afcoding.xo_game" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
 <hr>
