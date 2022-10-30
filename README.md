@@ -46,7 +46,7 @@ AbuDiyab Rent Car You can choose your favorite car by selecting the pick-up and 
 Application of attendance and departure of employees in Abu Diab company
 <p><a href="https://play.google.com/store/apps/details?id=com.tsfinger.fingerprint" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
   
-<p><a href=https://apps.apple.com/us/app/adtsfinger/id6443908125" target="_blank"><img alt="App Store" src="https://camo.githubusercontent.com/84d0c40978410f7bcbf2eb4a4d026edf86d2964076277aedebf9cb519c141064/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e25323061707025323073746f72652d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170702d73746f7265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&amp;logo=app-store&amp;logoColor=white" style="max-width: 100%;"><p>
+<p><a href="https://apps.apple.com/us/app/adtsfinger/id6443908125" target="_blank"><img alt="App Store" src="https://camo.githubusercontent.com/84d0c40978410f7bcbf2eb4a4d026edf86d2964076277aedebf9cb519c141064/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e25323061707025323073746f72652d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170702d73746f7265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&amp;logo=app-store&amp;logoColor=white" style="max-width: 100%;"><p>
   
 <hr>
   
