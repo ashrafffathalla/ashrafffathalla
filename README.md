@@ -64,7 +64,7 @@ Application of attendance and departure of employees in Abu Diab company
 ### Helnay 
 
 Dating Application For marriage according to Islamic law.
-<p><a href="https://play.google.com/store/apps/details?id=com.ad_automation.ad_automation&hl=en_US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.helnay.helnayy&hl=en_US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
  
  <p><a href="https://play.google.com/store/apps/details?id=com.helnay.helnayy&hl=en_US" target="_blank">
   
